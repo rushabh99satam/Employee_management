@@ -1,0 +1,1 @@
+insert into employee(id, name, email) values (1001, 'Alex', 'alexmercer@123.com')
